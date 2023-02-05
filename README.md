@@ -1,5 +1,5 @@
 ### Hi there 👋
-https:/syandesigners.github.io
+https://syandesigners.github.io
 <!--
 **syandesigners/syandesigners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
