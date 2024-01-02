@@ -1,4 +1,4 @@
-## https://syandesigners.gitgub.io
+## https://syandesigners.github.io
 
 ## https://syandesigners.in
 
